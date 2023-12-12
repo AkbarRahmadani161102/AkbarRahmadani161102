@@ -1,4 +1,8 @@
-# AkbarRahmadani161102
+
+![Profile](https://github.com/AkbarRahmadani161102/AkbarRahmadani161102/assets/119948941/ea63b30d-dcec-41c2-94bb-38ce06608a86)
+
+<h1 align="center">Hello there, I'm Akbar Rahmadani</h1>
+<h3 align="center">A passionate technology learner from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AkbarRahmadani161102richtbyte" alt="AkbarRahmadani161102richtbyte" /> </p>
 
