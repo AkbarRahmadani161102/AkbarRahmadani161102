@@ -1,11 +1,51 @@
 ![Intro](https://github.com/AkbarRahmadani161102/AkbarRahmadani161102/assets/119948941/4a01d1c2-e749-4541-b6bd-dc8143471132)
 
-<h1 align="center">Hello there, I'm Akbar Rahmadani</h1>
-<h3 align="center">A passionate technology learner from Indonesia</h3>
+<h3 align="center">Hey there, I'm <a href="https://github.com/AkbarRahmadani161102">Akbar Rahmadani</a></h3>
+<h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AkbarRahmadani161102richtbyte" alt="AkbarRahmadani161102richtbyte" /> </p>
+<p align="center">
+<a href="https://github.com/AkbarRahmadani161102?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AkbarRahmadani161102?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
+   <a href="[https://github.com/thinkright20](https://github.com/AkbarRahmadani161102)"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/AkbarRahmadani161102?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+ </p>
 
-[![](https://raw.githubusercontent.com/AkbarRahmadani161102/AkbarRahmadani161102/master/profile-summary-card-output/aura/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
-[![](https://raw.githubusercontent.com/AkbarRahmadani161102/AkbarRahmadani161102/master/profile-summary-card-output/aura/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/AkbarRahmadani161102/AkbarRahmadani161102/master/profile-summary-card-output/aura/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/AkbarRahmadani161102/AkbarRahmadani161102/master/profile-summary-card-output/aura/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/AkbarRahmadani161102/AkbarRahmadani161102/master/profile-summary-card-output/aura/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+## Profile Views
+
+
+  <table>
+    <tr>
+      <!-- <th>Profile Views</th> -->
+      <th>Total Count</th>
+    </tr>
+    <tr>
+      <!-- <td>
+        <div align="center">
+          <a href="https://github.com/AkbarRahmadani161102"><img src="https://github.com/AkbarRahmadani161102.png" alt="@AkbarRahmadani161102" width="52" /></a>
+          <br />
+          <a align="center" href="https://github.com/AkbarRahmadani161102"><b>AkbarRahmadani161102</b></a>
+        </b>
+      </td> -->
+      <!-- Profile Views -->
+      <td>
+         <a href="https://github.com/AkbarRahmadani161102"> <img src="https://komarev.com/ghpvc/?username=AkbarRahmadani161102&style=for-the-badge&color=brightgreen"> </a>
+      </td>
+    </tr>
+  </table>
+
+## Languages and Tools
+<p align="left"> <a href="https://github.com/AkbarRahmadani161102"><img src="https://skillicons.dev/icons?i=vscode,replit,github,mongodb,css,html,js,express,bots,nodejs"> </a> </p>
+
+## My Stats:
+<p align="center">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=AkbarRahmadani161102&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+</p>
+
+## Activity On GitHub
+
+<p align="center">
+  <a href="https://github.com/AkbarRahmadani161102">      
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AkbarRahmadani161102&theme=dark&hide_border=true&stroke=f53b3b"/>
+</a> 
+</p>
+
 
