@@ -10,8 +10,6 @@
  </p>
 
 ## Profile Views
-
-
   <table>
     <tr>
       <!-- <th>Profile Views</th> -->
@@ -31,6 +29,10 @@
       </td>
     </tr>
   </table>
+## What I'm Doing
+- 
+- 
+- 
 
 ## Languages and Tools
 <p align="left"> <a href="https://github.com/AkbarRahmadani161102"><img src="https://skillicons.dev/icons?i=vscode,replit,github,mongodb,css,html,js,express,bots,nodejs"> </a> </p>
