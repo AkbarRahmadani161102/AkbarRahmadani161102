@@ -1,4 +1,4 @@
-![Github-Intended](https://github.com/AkbarRahmadani161102/AkbarRahmadani161102/assets/119948941/6b58e1d9-4e7e-4809-881a-e3871cd1d9e6)
+![Intro](https://github.com/AkbarRahmadani161102/AkbarRahmadani161102/assets/119948941/4a01d1c2-e749-4541-b6bd-dc8143471132)
 
 <h1 align="center">Hello there, I'm Akbar Rahmadani</h1>
 <h3 align="center">A passionate technology learner from Indonesia</h3>
