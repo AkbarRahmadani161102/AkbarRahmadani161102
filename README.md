@@ -39,14 +39,9 @@
 ## Languages and Tools
 <p align="left"> <a href="https://github.com/AkbarRahmadani161102"><img src="https://skillicons.dev/icons?i=vscode,replit,github,mongodb,css,html,js,express,bots,nodejs"> </a> </p>
 
-## My Stats:
+## My Stats & Activity On GitHub :
 <p align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=AkbarRahmadani161102&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
-</p>
-
-## Activity On GitHub
-
-<p align="center">
+<img height="196,5px" src="https://github-readme-stats.vercel.app/api?username=AkbarRahmadani161102&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
   <a href="https://github.com/AkbarRahmadani161102">      
 <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AkbarRahmadani161102&theme=dark&hide_border=true&stroke=f53b3b"/>
 </a> 
