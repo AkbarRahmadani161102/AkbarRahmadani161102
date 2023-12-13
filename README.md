@@ -1,3 +1,4 @@
+
 ![Intro](https://github.com/AkbarRahmadani161102/AkbarRahmadani161102/assets/119948941/4a01d1c2-e749-4541-b6bd-dc8143471132)
 
 <h3 align="center">Hey there, I'm <a href="https://github.com/AkbarRahmadani161102">Akbar Rahmadani</a></h3>
@@ -39,7 +40,7 @@
 ## Languages and Tools
 <p align="left"> <a href="https://github.com/AkbarRahmadani161102"><img src="https://skillicons.dev/icons?i=vscode,replit,github,mongodb,css,html,js,express,bots,nodejs"> </a> </p>
 
-## My Stats & Activity On GitHub :
+## My Stats & Activity On GitHub : 
 <p align="center">
 <img height="196,5px" src="https://github-readme-stats.vercel.app/api?username=AkbarRahmadani161102&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
   <a href="https://github.com/AkbarRahmadani161102">      
