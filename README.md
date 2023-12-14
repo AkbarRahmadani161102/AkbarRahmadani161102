@@ -38,7 +38,7 @@
 - 
 
 ## Languages and Tools
-<p align="left"> <a href="https://github.com/AkbarRahmadani161102"><img src="https://skillicons.dev/icons?i=vscode,replit,github,mongodb,css,html,js,express,bots,nodejs"> </a> </p>
+<p align="left"> <a href="https://github.com/AkbarRahmadani161102"><img src="https://skillicons.dev/icons?i=vscode,github,figma,git,mongodb,css,html,js,bots,nodejs,flutter,discord&theme=light&perline=4"> </a> </p>
 
 ## My Stats & Activity On GitHub : 
 <p align="center">
